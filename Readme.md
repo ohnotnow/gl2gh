@@ -12,6 +12,7 @@ The script is designed to assist developers in transitioning their CI/CD pipelin
 
 - Python 3.x
 - pip (Python package manager)
+- An OpenAI API Key (exported as 'OPENAI_API_KEY')
 
 ### Steps
 
